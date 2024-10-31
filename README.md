@@ -35,14 +35,6 @@ Ce projet a été développé dans le cadre du Master en Automatique et Robotiqu
 - E : Interagir avec les objets
 - F : Allumer/éteindre la torche
 
-## Contributions
-
-Ce projet a été réalisé par Massyl Hamdi dans le cadre de ses études de Master à la Sorbonne Université. Les principales contributions incluent :
-
-- Développement du système d'interaction avec les objets
-- Implémentation des effets sonores et de l'ambiance audio
-- Création d'une expérience de jeu immersive et interactive
-
 ## Perspectives futures
 
 - Ajouter plus de puzzles et d'énigmes
