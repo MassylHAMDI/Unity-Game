@@ -4,6 +4,11 @@
 
 Ce projet a été développé dans le cadre du Master en Automatique et Robotique à la Sorbonne Université, avec une spécialisation en traitement de l'information et intelligence artificielle. Il s'agit d'un jeu d'aventure immersif créé avec Unity 3D, mettant l'accent sur les interactions avec les objets et l'ambiance sonore.
 
+## Démonstration
+Une vidéo de démonstration du projet:
+
+https://github.com/user-attachments/assets/4f32f30f-ba20-4754-bd11-408f0f9911e5
+
 ## Caractéristiques principales
 
 - **Système d'interaction avancé** : Utilisation de tags et de colliders pour permettre au joueur d'interagir de manière fluide avec les objets du jeu (portes, clés, etc.).
